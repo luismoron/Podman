@@ -1,4 +1,4 @@
-FROM mongo:7 AS builder
+FROM mongo:latest AS builder
 
 FROM alpine:latest
 
